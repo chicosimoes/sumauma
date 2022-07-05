@@ -3,8 +3,11 @@ An open source ceramic 3D printer with Brazilian design principles.
 
 //in portuguese//
 Uma impressora 3D para cerâmica de código aberto com princípios brasileiros de desenho.
+A movimenteção será do tipo polar e a estrutura construida em placas de madeira cortadas com fresa.
 
-Make on Blender 3.1 with CAD Sketcher add-on.
+dúvidas ou sugestões pelo github ou chico.eks on gmail.
+
+Make on Blender 3.2 with CAD Sketcher add-on.
 
 See:
 https://www.blender.org/
